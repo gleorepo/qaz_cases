@@ -1,5 +1,7 @@
 # QAZ Cases by Greg Leo (whydobearsxplod)
 
+All of these cases work with the QAZ pcb available on [Coffee Break Keyboards](http://cbkbd.com), and all use m2 10mm standoffs and m2 screws to secure the pcb/plate assembly to the case. All the prints shown are printed with [FilaCube Living Coral Filament](https://amzn.to/3Z6NyRl) on an AnyCubic i3 Mega S.
+
 ## Voronoi
 
 This is a thin, basic case with a voroni pattern. This case was produced in using R to calculate the voronoi cells and Fusion 360 for put everything together. 
