@@ -4,9 +4,9 @@
 
 This is a thin, basic case with a voroni pattern. This case was produced in using R to calculate the voronoi cells and Fusion 360 for put everything together. 
 
-![Voronoi Case](/voronoi/voroni_qaz.PNG)
-![Voronoi Case](/voronoi/voroni_print_1.jpg)
-![Voronoi Case](/voronoi/voroni_print_2.jpg)
+![Voronoi Case](/voronoi/voronoi_qaz.PNG)
+![Voronoi Case](/voronoi/voronoi_print_1.jpg)
+![Voronoi Case](/voronoi/voronoi_print_2.jpg)
 
 ## Hex
 
